@@ -1,0 +1,2 @@
+module Geohashing
+end

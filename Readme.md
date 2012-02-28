@@ -1,12 +1,14 @@
-# Geohashing: a module implementing XKCD's geohashing algorithm
+# Geohashing
 
-## lolwut?
+A bare-bones implementation of XKCD's geohashing algorithm.
+
+### lolwut?
 
 [The inspirational comic](http://www.xkcd.com/426/)
 
 [The geohashing community](http://wiki.xkcd.com/geohashing/Main_Page)
 
-## Usage
+### Usage
 
 Just include the Geohashing module in your class. The only *really* useful method is:
 
